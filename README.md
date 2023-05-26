@@ -1,4 +1,5 @@
-<img width=300  align="right" src="https://i.pinimg.com/originals/e9/f1/40/e9f140e236531a5dd03f6bad8dc7dc9b.gif">
+![MasterHead](https://i.pinimg.com/originals/e9/f1/40/e9f140e236531a5dd03f6bad8dc7dc9b.gif)
+<!-- <img  align="center" src="https://i.pinimg.com/originals/e9/f1/40/e9f140e236531a5dd03f6bad8dc7dc9b.gif"> -->
 
 <h1 align="center">Hi 👋, I'm Mikhael Amos Perdamean</h1>
 <h3 align="center">A passionate data field from Indonesia</h3>
