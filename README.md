@@ -1,5 +1,8 @@
 
-<img  align="right"  src="https://static.wixstatic.com/media/843ba4_5b7c42088446400b8c68eb58dbb9e8c5~mv2.gif">
+ <p align="center">
+    <img src="https://static.wixstatic.com/media/843ba4_5b7c42088446400b8c68eb58dbb9e8c5~mv2.gif">
+p>
+
 
 <h1 align="center">Hi 👋, I'm Mikhael Amos Perdamean</h1>
 <h3 align="center">A passionate data field from Indonesia</h3>
